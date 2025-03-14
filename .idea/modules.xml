@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classes-and-objects.iml" filepath="$PROJECT_DIR$/.idea/modules/classes-and-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classes-and-objects.main.iml" filepath="$PROJECT_DIR$/.idea/modules/classes-and-objects.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classes-and-objects.test.iml" filepath="$PROJECT_DIR$/.idea/modules/classes-and-objects.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hexlet-assignments.iml" filepath="$PROJECT_DIR$/.idea/hexlet-assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces.main.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces.test.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subtyping.iml" filepath="$PROJECT_DIR$/.idea/modules/subtyping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subtyping.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subtyping.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subtyping.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subtyping.test.iml" />
+    </modules>
+  </component>
+</project>
