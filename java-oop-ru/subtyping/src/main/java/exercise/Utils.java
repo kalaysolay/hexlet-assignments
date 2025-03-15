@@ -48,7 +48,6 @@ class Utils {
         Path fullPath = Paths.get(path).toAbsolutePath().normalize();
         try {
             Files.writeString(fullPath, content, StandardOpenOption.TRUNCATE_EXISTING);
-            System.out.println(fullPath);
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
